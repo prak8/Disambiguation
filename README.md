@@ -14,8 +14,19 @@ The objective of the assignment includes building a decision list classifier in 
 
 ## An actual example of program input and output
 
-The project begins with parsing a training data that includes variety of sentences which utilize the target word "line" and have been tagged with the type of sense the . Two sense have been provided to disambiguate "line" - either as product line or phone line. 
 
-## Algorithm 
 
+## Algorithm
+
+###Description
+
+* Parsing training data for target word.
+
+* With the collocation method, selection of three words, 2 to the left and 1 to the right, surrounding the target word, in order to build list of features.
+
+* Formulation of the probability of each feature association with the two sense, product and phone. 
+
+* Classifier applied towards training data, output saved as a text file. 
+
+* Accuracy recorded and a confusion matrix provided in order to measure the performance of the classifier. 
 
