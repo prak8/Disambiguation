@@ -14,6 +14,8 @@ The objective of the assignment includes building a decision list classifier in 
 
 ## An actual example of program input and output
 Decision List
+
+
 <img width="703" alt="Screen Shot 2021-10-19 at 7 48 01 PM" src="https://user-images.githubusercontent.com/90986120/138005645-e789ad61-b065-4097-8478-7c74eca984f4.png">
 
 
