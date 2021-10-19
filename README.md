@@ -26,7 +26,7 @@ Description
 
 * Formulation of the probability of each feature association with the two sense, product and phone. 
 
-* Classifier applied towards training data, output saved as a text file. 
+* Classifier applied towards test data, output saved as a text file. 
 
 * Accuracy recorded and a confusion matrix provided in order to measure the performance of the classifier. 
 
