@@ -14,11 +14,18 @@ The objective of the assignment includes building a decision list classifier in 
 
 ## An actual example of program input and output
 Decision List
+<img width="703" alt="Screen Shot 2021-10-19 at 7 48 01 PM" src="https://user-images.githubusercontent.com/90986120/138005645-e789ad61-b065-4097-8478-7c74eca984f4.png">
+
+
 
 My-Line-Answers
 
+<img width="711" alt="Screen Shot 2021-10-19 at 7 48 19 PM" src="https://user-images.githubusercontent.com/90986120/138005660-57c78361-17a8-4188-888e-8214b8f7c658.png">
+
+
 Confusion Matrix
 
+<img width="837" alt="Screen Shot 2021-10-19 at 7 44 26 PM" src="https://user-images.githubusercontent.com/90986120/138005675-6c92b39c-cc9e-4edb-8c9d-c1c5a29126d8.png">
 
 
 ## Algorithm
