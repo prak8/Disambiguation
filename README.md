@@ -18,7 +18,7 @@ The objective of the assignment includes building a decision list classifier in 
 
 ## Algorithm
 
-###Description
+Description
 
 * Parsing training data for target word.
 
