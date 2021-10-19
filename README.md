@@ -24,7 +24,7 @@ Description
 
 * With the collocation method, selection of three words, 2 to the left and 1 to the right, surrounding the target word, in order to build list of features.
 
-* Formulation of the probability of each feature association with the two sense, product and phone. 
+* Formulation of the probability for each feature associated with the two sense, product and phone. 
 
 * Classifier applied towards test data, output saved as a text file. 
 
