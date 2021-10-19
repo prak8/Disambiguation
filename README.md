@@ -13,6 +13,11 @@ The objective of the assignment includes building a decision list classifier in 
 
 
 ## An actual example of program input and output
+Decision List
+
+My-Line-Answers
+
+Confusion Matrix
 
 
 
