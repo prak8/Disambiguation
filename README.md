@@ -15,6 +15,7 @@ The objective of the assignment includes building a decision list classifier in 
 ## An actual example of program output and usage instructions
 
 The following figures below show the output expected from running this project.  
+
 Decision List: This figure shows the features from the bag of words along with a likihood score.
 
 
