@@ -16,7 +16,7 @@ The objective of the assignment is to (1) build a decision list classifier to di
 
 The following figures below show the output expected from running this project.  
 
-Decision List: This figure shows the features from the bag of words along with a likelihood score.
+Decision-List: This figure shows the features from the bag of words along with a log-likelihood score.
 
 
 <img width="703" alt="Screen Shot 2021-10-19 at 7 48 01 PM" src="https://user-images.githubusercontent.com/90986120/138005645-e789ad61-b065-4097-8478-7c74eca984f4.png">
