@@ -33,6 +33,10 @@ Confusion Matrix: This figure displays the output from running the scorer script
 <img width="837" alt="Screen Shot 2021-10-19 at 7 44 26 PM" src="https://user-images.githubusercontent.com/90986120/138005675-6c92b39c-cc9e-4edb-8c9d-c1c5a29126d8.png">
 
 
+Usage instructions
+
+All of the starting files need to be placed in the same folder. These files include the training and testing data, an answer key text file to the test data, also the python script composed for the decision list and the scorer. On the terminal or powershell, navigate to the directory where the file has been stored. Run all the files except the scorer in the initial command, with the output requested to a new text file. If successful initiated, an output should form in the directory, with the output of the decision list script. This output and the answer key can be used to run along with the scorer script to produce the confusion matrix for the accuracy. 
+
 ## Algorithm
 
 Description
