@@ -35,7 +35,16 @@ Confusion Matrix: This figure displays the output from running the scorer script
 
 Usage instructions
 
-All of the starting files need to be placed in the same folder. These files include the training and testing data, an answer key text file to the test data, also the python script composed for the decision list and the scorer. On the terminal or powershell, navigate to the directory where the file has been stored. Run all the files except the scorer in the initial command, with the output requested to a new text file. If successful initiated, an output should form in the directory, with the output of the decision list script. This output and the answer key can be used to run along with the scorer script to produce the confusion matrix for the accuracy. 
+All of the following files need to be placed in the same directory as the decision-list.py and scorer.py:
+  -  line-train.xml (training data)
+  -  line-test.xml (test data)
+  -  line-answers.txt (answer key) 
+On the terminal or powershell, navigate to the directory where the file has been stored. Execute the script by entering: 
+    python decision-list.py line-train.xml line-test.xml my-decision-list.txt > my-line-answers.txt
+If the script is executed successfully, two output files will generate: my-decision-list.txt and my-line-answers.txt 
+To execute with the scorer.py script, navigate to the same directory where the files are stored and enter the following: 
+    python scorer.py my-line-answers.txt line-answers.txt
+If the script is executed successfully, the model accuracy percentage, the baseline accuracy percentage and the confusion matrix appear on the screen.  
 
 ## Algorithm
 
