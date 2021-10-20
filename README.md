@@ -51,3 +51,8 @@ Description
 
 * Accuracy recorded and a confusion matrix provided in order to measure the performance of the classifier. 
 
+Figure below shows a flow diagram
+
+
+![Untitled Document](https://user-images.githubusercontent.com/90986120/138015263-3ab6dda6-c4e2-4616-be30-2453544b013e.png)
+
