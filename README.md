@@ -3,7 +3,7 @@
 
 AIT 526
 
-Programming Assignment II
+Programming Assignment 2
 
 Author: Team 1 - Alice Chen, Hrishikesh Karambelkar, Prakriti Panday, Sean Park
 
